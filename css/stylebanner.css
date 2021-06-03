@@ -80,7 +80,7 @@
 
 .girl {
   position: absolute;
-  bottom: -1px;
+  bottom: -6px;
   left: 18%;
   animation: girl 1s;
 }
@@ -147,7 +147,7 @@
 
 .robot {
   position: absolute;
-  bottom: -38px;
+  bottom: -120px;
   transform: scale(0.8);
   right: 35%;
   animation: robot 1s;
